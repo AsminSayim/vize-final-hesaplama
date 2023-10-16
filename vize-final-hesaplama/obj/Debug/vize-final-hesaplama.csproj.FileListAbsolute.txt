@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\vize-final-hesaplama\vize-final-hesaplama\bin\Debug\vize-final-hesaplama.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\vize-final-hesaplama\vize-final-hesaplama\bin\Debug\vize-final-hesaplama.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\vize-final-hesaplama\vize-final-hesaplama\bin\Debug\vize-final-hesaplama.pdb
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\vize-final-hesaplama\vize-final-hesaplama\obj\Debug\vize-final-hesaplama.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\vize-final-hesaplama\vize-final-hesaplama\obj\Debug\vize-final-hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\vize-final-hesaplama\vize-final-hesaplama\obj\Debug\vize_final_hesaplama.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\vize-final-hesaplama\vize-final-hesaplama\obj\Debug\vize_final_hesaplama.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\vize-final-hesaplama\vize-final-hesaplama\obj\Debug\vize-final-hesaplama.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\vize-final-hesaplama\vize-final-hesaplama\obj\Debug\vize-final-hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\vize-final-hesaplama\vize-final-hesaplama\obj\Debug\vize-final-hesaplama.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\vize-final-hesaplama\vize-final-hesaplama\obj\Debug\vize-final-hesaplama.pdb
